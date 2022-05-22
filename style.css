@@ -1,15 +1,17 @@
-p{
-     display: none;
-     background-color:yellow;
-     padding: 20px;
-    }
-    
-    div:hover p{
-        display:block;
-    }
+/* .main-area{
+    width: 20;
+    border: 2px solid #222;
+    padding: 15px;
+    background-color: rgb(61, 178, 174);
+}
 
-    .body{ 
-        background-color:rgba(77, 102, 20, 0.925)
-        
-    }
-        
+.other-area{
+    border: 2px solid #222;
+    padding: 15px;
+    margin-top: 30px;
+    background-color: rgb(26, 92, 149);   
+} */
+
+.grid-content {
+    display: flex;
+}
